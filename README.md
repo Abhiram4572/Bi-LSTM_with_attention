@@ -26,5 +26,8 @@ Crawling is done using beautiful soup html parser and requests (python tool for 
 2. Use custom data for training (data from csv)
 3. Use transformer encoder for classification instead of Bi-LSTM.
 
+## References
+1. https://github.com/prakashpandey9/Text-Classification-Pytorch [Major reference]
+
 Code is self explanatory, please raise issues in case if I've missed anything or if you want me to add something.
-I've used many resources in making this, hence won't claim ownership.
+**Please star if you find this useful.** I've used many resources in making this, hence won't claim ownership.
