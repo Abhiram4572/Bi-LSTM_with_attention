@@ -22,8 +22,9 @@ Crawling is done using beautiful soup html parser and requests (python tool for 
 3. if max sentences are positive - return positive as overall sentiment, negative otherwise.
 
 ## Further modifications
-1. Use custom data for training (data from csv)
-2. Use transformer encoder for classification instead of Bi-LSTM.
+1. Provide .py file with arguments for running on a terminal interfaces.
+2. Use custom data for training (data from csv)
+3. Use transformer encoder for classification instead of Bi-LSTM.
 
 Code is self explanatory, please raise issues in case if I've missed anything or if you want me to add something.
 I've used many resources in making this, hence won't claim ownership.
