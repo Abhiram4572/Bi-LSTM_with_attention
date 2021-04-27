@@ -1,4 +1,4 @@
-# Bi-LSTM_with_attention
+# Bi-LSTM with Attention
 
 ## Task:
 Train a Bi-LSTM with Attention on IMDB movie review data and use the trained model to classify live news crawled from livemint.com
